@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Filipe Morais 👋
 
-- 📚 Estudando Typescript e React
+- 📚 Estudando Next
 - 🔭 Procurando uma oportunidade com Front-End
 
 <div align="center">
