@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Filipe Morais 👋
 
-- 📚 Estudando Next
-- 🔭 Procurando uma oportunidade com Front-End
+- 📚 Atualmente estudando React-native e Node
+- 🔭 Desenvolvedor Full-Stack pela Offerwise
 
 <div align="center">
   <a href="https://github.com/FilipeMoraisCarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMoraisCarvalho&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="htt ps://github-readme-stats.vercel.app/api?username=FilipeMoraisCarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeMoraisCarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
   <div style="display: inline_block"><br>
