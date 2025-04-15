@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Filipe Morais 👋
 
-- 📚 Atualmente estudando React-native e Node
 - 🔭 Desenvolvedor Full-Stack pela Offerwise
   
 <div style="display: inline_block"><br>
