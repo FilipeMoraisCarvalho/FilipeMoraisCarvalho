@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Filipe Morais 👋
 
-- 🔭 Desenvolvedor Full-Stack pela Offerwise
+- 🔭 Desenvolvedor Full-Stack pela Horizonte Milhas
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
